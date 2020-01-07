@@ -1,4 +1,4 @@
-# My First Sentiment Analysis Deployment using the Amazon SageMaker
+# Sentiment Analysis Deployment using the Amazon SageMaker
 
 This project is part of the Udacity Nanodegree Program where I deploy the sentiment analysis application entirely with the API gateway provided
 by the Amazon.
